@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '', 'tags': '', 'url': 'About.html'}, {'title': '每周進度', 'text': '', 'tags': '', 'url': '每周進度.html'}, {'title': 'w1', 'text': '', 'tags': '', 'url': 'w1.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '', 'tags': '', 'url': 'About.html'}, {'title': 'Work', 'text': '', 'tags': '', 'url': 'Work.html'}, {'title': 'w1', 'text': '使用軟體為Inventer2019學生版 \n pdf1-1 \n \n', 'tags': '', 'url': 'w1.html'}]};
